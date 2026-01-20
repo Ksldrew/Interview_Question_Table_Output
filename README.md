@@ -2,8 +2,6 @@
 
 This project displays a data table (Table 1) and calculates a second table (Table 2) based on predefined rules.
 
-## Hosted Site
-https://yourusername.github.io/table-output-assessment/
 
 ## Description
 - Table 1 contains input values
